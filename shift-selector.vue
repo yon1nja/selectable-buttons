@@ -21,7 +21,7 @@
 <script>
 // import store mapping
 
-export defaults {
+export default {
   data() {
     return {
       if1Chosen: "primary",
